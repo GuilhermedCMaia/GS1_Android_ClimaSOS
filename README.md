@@ -23,16 +23,16 @@ Este é um aplicativo para registrar eventos extremos como enchentes, secas e ou
 ## Screenshots do Aplicativo
 
 ### Tela Principal Vazia
-![Tela Principal Vazia](screenshots/tela_principal_vazia.png)
+![Tela Principal Vazia](screenshots/image.png)
 
 ### Tela Principal Preenchida
-![Tela Principal Preenchida](screenshots/tela_principal_preenchida.png)
+![Tela Principal Preenchida](screenshots/image2.png)
 
 ### Tela Principal com Múltiplos Eventos
-![Tela Principal com Múltiplos Eventos](screenshots/tela_principal_multiplos_eventos.png)
+![Tela Principal com Múltiplos Eventos](screenshots/image3.png)
 
 ### Tela de Identificação
-![Tela de Identificação](screenshots/tela_identificacao.png)
+![Tela de Identificação](screenshots/timage4.png)
 
 ## Requisitos implementados
 1. ✅ Tela principal com os 5 campos e botão "Incluir"
