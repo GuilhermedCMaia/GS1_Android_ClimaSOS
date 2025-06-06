@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ClimaSOS</string>
+    <string name="titulo_app">ClimaSOS</string>
+    <string name="titulo_identificacao">Identificação dos Alunos</string>
+    <string name="hint_local">Nome do local</string>
+    <string name="hint_tipo_evento">Tipo do evento extremo</string>
+    <string name="hint_grau_impacto">Grau de impacto</string>
+    <string name="hint_data">Data do evento (DD/MM/AAAA)</string>
+    <string name="hint_pessoas_afetadas">Número estimado de pessoas afetadas</string>
+    <string name="btn_incluir">Incluir</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_identificacao">Identificação dos Alunos</string>
+    <string name="eventos_registrados">Eventos Registrados:</string>
+    <string name="erro_campos_vazios">Todos os campos são obrigatórios</string>
+    <string name="erro_pessoas_afetadas">O número de pessoas afetadas deve ser maior que zero</string>
+    <string name="erro_numero_invalido">Número de pessoas afetadas inválido</string>
+</resources>
