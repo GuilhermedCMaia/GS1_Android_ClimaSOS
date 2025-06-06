@@ -32,7 +32,7 @@ Este é um aplicativo para registrar eventos extremos como enchentes, secas e ou
 ![Tela Principal com Múltiplos Eventos](screenshots/image3.png)
 
 ### Tela de Identificação
-![Tela de Identificação](screenshots/timage4.png)
+![Tela de Identificação](screenshots/image4.png)
 
 ## Requisitos implementados
 1. ✅ Tela principal com os 5 campos e botão "Incluir"
